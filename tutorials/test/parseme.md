@@ -1,6 +1,6 @@
 ---
 title: Create a Destination on HANA Cloud Platform
-description: Create a Destination to allow HANA Cloud Platform to read/write data
+description: Create a Destination to allow HANA Cloud Platform to nbvread/write data
 tags: [tutorial:product/hcp, tutorial:product/mobile, tutorial:interest/gettingstarted]
 ---
 
