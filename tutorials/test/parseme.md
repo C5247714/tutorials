@@ -9,8 +9,7 @@ tags: [tutorial:product/hcp, tutorial:product/mobile, tutorial:interest/gettings
 >This is a note. New
 
 
-[ACCORDION-BEGIN [STEP 1](#the first step)] some content inside [ACCORDION-END]
-
+[ACCORDION-BEGIN [STEP 1](#the first step)] some content inside [ACCORDION-END]    
 [ACCORDION-BEGIN [STEP 2](#the second step)] some content inside [ACCORDION-END]
 
 >### Some stuff
