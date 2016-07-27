@@ -8,7 +8,8 @@ tags: [tutorial:product/hcp, tutorial:product/mobile, tutorial:interest/gettings
 
 >This is a note. New
 
-[STEP 1](sdasdasdasd)
+[sadasdasd](sdasdasdasd)
+[qwegfdsdfs](#sdasasdfasdasdasd)
 
 
 [ACCORDION-BEGIN [STEP 1](#the first step)] some content inside [ACCORDION-END]    
