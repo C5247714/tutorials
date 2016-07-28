@@ -8,7 +8,7 @@ tags: [tutorial:product/hcp, tutorial:product/mobile, tutorial:interest/gettings
 
 >This is a note. New
 
-[sadasdasd](sdasdasdasd)
+[sadasdasd](/sdasdasdasd/)         
 [qwegfdsdfs](#sdasasdfasdasdasd)
 
 
