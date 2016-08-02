@@ -25,6 +25,8 @@ With Markdown extension [ACCORDION] -
 2. Select the *Destinations* tab on the left side, and then click on *New Destination* to open a new destination configuration form.
 ![Web IDE Destination tab](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/hcp-create-destination/mob1-1_2.png)
 [ACCORDION-END]
+[ACCORDION-BEGIN [STEP 1](#the first step)] some content inside [ACCORDION-END]    
+[ACCORDION-BEGIN [STEP 2](#the second step)] some content inside [ACCORDION-END]
 
 >### Some stuff
 
