@@ -18,7 +18,7 @@ tags: [ products>sap-hana, products>sap-hana-studio, products>sap-hana-cloud-pla
 
 
 ### Time to Complete
-**20 minutes**
+**20 minutes** dsfdsfsdfsd sfsdfsdfsdfsdfsdfs dsadfds asfdasdsa asdsaddsadsa
 
 ### Host Configuration
 Access your HANA instance that was created in ["How to create an SAP HANA Developer Edition in the Cloud"](http://go.sap.com/developer/tutorials/hana-setup-cloud.html).
