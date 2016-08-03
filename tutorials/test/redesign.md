@@ -17,8 +17,8 @@ tags: [ products>sap-hana, products>sap-hana-studio, products>sap-hana-cloud-pla
 3. Getting started with the HANA Web based development workbench
 
 
-### Time to Compete
-Beginners will take **20 minutes** to finish this tutorial.
+### Time to Complete
+**20 minutes**
 
 ### Host Configuration
 Access your HANA instance that was created in ["How to create an SAP HANA Developer Edition in the Cloud"](http://go.sap.com/developer/tutorials/hana-setup-cloud.html).
