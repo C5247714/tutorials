@@ -16,7 +16,7 @@ tags: [  tutorial>intermediate, tutorial:type/project ]
   - [Back to the Navigator](http://go.sap.com/developer/tutorials/ci-best-practices-intro.html)
   
 
-### Time to Complete
+## Time to Complete
 **20 Min**.
 
 ---
