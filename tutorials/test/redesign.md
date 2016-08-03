@@ -14,10 +14,10 @@ tags: [  tutorial>intermediate, tutorial:type/project ]
  
   - [Artifact Repository](http://go.sap.com/developer/tutorials/ci-best-practices-artifacts.html)
   - [Back to the Navigator](http://go.sap.com/developer/tutorials/ci-best-practices-intro.html)
-  
+
 
 ## Time to Complete
-**20 Min**.
+**20 Min**
 
 ---
 
