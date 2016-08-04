@@ -13,7 +13,7 @@ tags: [ products>sap-hana, products>sap-hana-studio, products>sap-hana-cloud-pla
 ## Details
 ### You will learn  
 1. How to use HANA Studio Perspectives
-2. How to create a connection to the HANA back end
+2. How to create a connection to the HANA back endd
 3. Getting started with the HANA Web based development workbench
 
 
