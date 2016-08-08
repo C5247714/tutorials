@@ -8,6 +8,28 @@ tags: [tutorial:product/hcp, tutorial:product/mobile, tutorial:interest/gettings
 
 >This is a note. Newsadfsadf
 
+## Prerequisites  
+[How to create an SAP HANA Developer Edition in the Cloud](http://go.sap.com/developer/tutorials/hana-setup-cloud.html)
+
+## Next Steps
+- [Develop your first SAP HANA XSC application](http://go.sap.com/developer/tutorials/hana-web-development-workbench.html)
+
+ 
+## Details
+### You will learn  
+1. How to use HANA Studio Perspectives
+2. How to create a connection to the HANA back endddв
+3. Getting started with the HANA Web based development workbench
+
+
+### Time to Complete
+**20 minutes** dsfdsfsdfsd sfsdfsdfsdfsdfsdfs dsadfds asfdasdsa asdsaddsadsa
+
+### Host Configuration
+Access your HANA instance that was created in ["How to create an SAP HANA Developer Edition in the Cloud"](http://go.sap.com/developer/tutorials/hana-setup-cloud.html).
+
+Chose Notepad as the Open with Editor.
+
 [sadasdasd](/sdasdasdasd/)         
 [qwegfdsdfs](#sdasasdfasdasdasd)
 
