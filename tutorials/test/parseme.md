@@ -12,6 +12,7 @@ tags: [tutorial:product/hcp, tutorial:product/mobile, tutorial:interest/gettings
 ## Prerequisites  
 [How to create an SAP HANA Developer Edition in the Cloud](http://go.sap.com/developer/tutorials/hana-setup-cloud.html)
 
+рпррр
 ## Next Steps
 - [Develop your first SAP HANA XSC application](http://go.sap.com/developer/tutorials/hana-web-development-workbench.html)
 
