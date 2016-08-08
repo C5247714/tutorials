@@ -8,6 +8,7 @@ tags: [tutorial:product/hcp, tutorial:product/mobile, tutorial:interest/gettings
 
 >This is a note. Newsadfsadf
 
+вавава
 ## Prerequisites  
 [How to create an SAP HANA Developer Edition in the Cloud](http://go.sap.com/developer/tutorials/hana-setup-cloud.html)
 
