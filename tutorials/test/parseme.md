@@ -46,7 +46,7 @@ dfasfsadfsadf
 1. Go to <https://account.hanatrial.ondemand.com> and log in to your HCP cockpit.
 ![HCP log in page](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/hcp-create-destination/mob1-1_1.png)
 [ACCORDION-END]      
-[ACCORDION-BEGIN [STEP 2](#step2)]]
+[ACCORDION-BEGIN [STEP 2](#step2)]
 2. Select the *Destinations* tab on the left side, and then click on *New Destination* to open a new destination configuration form.
 ![Web IDE Destination tab](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/hcp-create-destination/mob1-1_2.png)
 [ACCORDION-END]
