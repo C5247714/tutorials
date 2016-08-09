@@ -57,13 +57,6 @@ sdfsafdsafsadfsadfsadfdsa
 dsfsadfasdfsadfsdsadfsdf
 [ACCORDION-END]
 
-[ACCORDION-BEGIN [after text with new line](#step1)]
-[ACCORDION-BEGIN [after text with new line](#step1)]
-sdfsafdsafsadfsadfsadfdsa
-dsfsadfasdfsadfsdsadfsdf
-[ACCORDION-END]
-[ACCORDION-END]
-
 >### Some stuff
 
 >aaaaaaaaaaaaaaaaaaaaaa
