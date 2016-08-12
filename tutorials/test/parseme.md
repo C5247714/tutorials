@@ -6,7 +6,7 @@ tags: [tutorial:product/hcp, tutorial:product/mobile, tutorial:interest/gettings
 
 >### New tutor
 
->This is a note. Newsasaddfsaaaaaaaaaaaafdaaaaaaaaaaa
+>This is a note. Newsasaddfsaaaaaaaaaaaafdaaaaaaaaaaaa
 
 вавава
 ## Prerequisites  
