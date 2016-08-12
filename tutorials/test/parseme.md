@@ -35,7 +35,7 @@ Chose Notepad as the Open with Editor.
 [sadasdasd](/sdasdasdasd/)         
 [qwegfdsdfs](#sdasasdfasdasdasd)
 
-
+[ACCORDION-BEGIN []()] some content inside [ACCORDION-END]    
 [ACCORDION-BEGIN [STEP 1](#the first step)] some content inside [ACCORDION-END]    
 [ACCORDION-BEGIN [STEP 2](#the second step)] some content insided [ACCORDION-END]
 
