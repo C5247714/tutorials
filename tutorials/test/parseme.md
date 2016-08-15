@@ -57,6 +57,13 @@ dfasfsadfsadf
 _dsfsadfasdfsadfsdsadfsdf_
 [ACCORDION-END]
 
+xxxxxxxx12312312
+
+[ACCORDION-BEGIN [STEP 6](After text)]
+**sdfsafdsafsadfsadfsadfdsa**
+_dsfsadfasdfsadfsdsadfsdf_
+[ACCORDION-END]
+
 >### Some stuff
 
 >aaaaaaaaaaaaaaaaaaaaaaaaaa
