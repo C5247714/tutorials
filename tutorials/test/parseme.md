@@ -40,7 +40,8 @@ Chose Notepad as the Open with Editor.
 [ACCORDION-BEGIN [STEP 2](#the second step)] some content insided [ACCORDION-END]    
 
 dfasfsadfsadf
-[ACCORDION-BEGIN [STEP 3](Some headline)]    
+
+[ACCORDION-BEGIN [STEP 3](Some headline)]  
 1. Go to <https://account.hanatrial.ondemand.com> and log in to your HCP cockpit.
 ![HCP log in page](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/hcp-create-destination/mob1-1_1.png)
 1. Go to <https://account.hanatrial.ondemand.com> and log in to your HCP cockpit.
