@@ -42,6 +42,9 @@ Chose Notepad as the Open with Editor.
 **sdfsafdsafsadfsadfsadfdsa**
 _dsfsadfasdfsadfsdsadfsdf_
 [ACCORDION-END]
+
+asadasdasd
+
 [ACCORDION-BEGIN [STEP 2](After text)]
 **sdfsafdsafsadfsadfsadfdsa**
 _dsfsadfasdfsadfsdsadfsdf_
