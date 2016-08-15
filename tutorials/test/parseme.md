@@ -40,21 +40,21 @@ Chose Notepad as the Open with Editor.
 [ACCORDION-BEGIN [STEP 2](#the second step)] some content insided [ACCORDION-END]
 
 dfasfsadfsadf
-[ACCORDION-BEGIN [after text](#step1)]
+[ACCORDION-BEGIN [STEP 3](Some headline)]
 1. Go to <https://account.hanatrial.ondemand.com> and log in to your HCP cockpit.
 ![HCP log in page](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/hcp-create-destination/mob1-1_1.png)
 1. Go to <https://account.hanatrial.ondemand.com> and log in to your HCP cockpit.
 ![HCP log in page](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/hcp-create-destination/mob1-1_1.png)
 [ACCORDION-END]      
-[ACCORDION-BEGIN [STEP 2](#step2)]
+[ACCORDION-BEGIN [STEP 4](#step2)]
 2. Select the *Destinations* tab on the left side, and then click on *New Destination* to open a new destination configuration form.
 ![Web IDE Destination tab](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/hcp-create-destination/mob1-1_2.png)
 [ACCORDION-END]
 
 124124124     
-[ACCORDION-BEGIN [after text with new line](#step1)]
-sdfsafdsafsadfsadfsadfdsa
-dsfsadfasdfsadfsdsadfsdf
+[ACCORDION-BEGIN [STEP 5](#step1)]
+**sdfsafdsafsadfsadfsadfdsa**
+_dsfsadfasdfsadfsdsadfsdf_
 [ACCORDION-END]
 
 >### Some stuff
