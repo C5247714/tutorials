@@ -60,6 +60,10 @@ _dsfsadfasdfsadfsdsadfsdf_
 **sdfsafdsafsadfsadfsadfdsa**
 _dsfsadfasdfsadfsdsadfsdf_
 [ACCORDION-END]
+Chose Notepad as the Open with Editor.
+
+[sadasdasd](/sdasdasdasd/)         
+[qwegfdsdfs](#sdasasdfasdasdasd)
 
 [ACCORDION-BEGIN [STEP 6](After text)]
 **sdfsafdsafsadfsadfsadfdsa**
