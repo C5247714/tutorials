@@ -54,7 +54,8 @@ dfasfsadfsadf
 **sdfsafdsafsadfsadfsadfdsa**
 _dsfsadfasdfsadfsdsadfsdf_
 [ACCORDION-END]
-   
+
+Text
 
 [ACCORDION-BEGIN [STEP 6](After text)]
 **sdfsafdsafsadfsadfsadfdsa**
@@ -62,7 +63,6 @@ _dsfsadfasdfsadfsdsadfsdf_
 [ACCORDION-END]
 
 Chose Notepad as the Open with Editor.
-
 
 [ACCORDION-BEGIN [STEP 6](After text)]
 **sdfsafdsafsadfsadfsadfdsa**
