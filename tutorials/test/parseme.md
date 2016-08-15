@@ -35,27 +35,29 @@ Chose Notepad as the Open with Editor.
 [sadasdasd](/sdasdasdasd/)         
 [qwegfdsdfs](#sdasasdfasdasdasd)
 
-[ACCORDION-BEGIN []()] some content inside [ACCORDION-END]    
-[ACCORDION-BEGIN [STEP 1](#the first step)] some content inside [ACCORDION-END]    
-[ACCORDION-BEGIN [STEP 2](#the second step)] some content insided [ACCORDION-END]
+[ACCORDION-BEGIN []()] some content inside [ACCORDION-END]       
+[ACCORDION-BEGIN [STEP 1](#the first step)] some content inside [ACCORDION-END]       
+[ACCORDION-BEGIN [STEP 2](#the second step)] some content insided [ACCORDION-END]    
 
 dfasfsadfsadf
-[ACCORDION-BEGIN [STEP 3](Some headline)]
+[ACCORDION-BEGIN [STEP 3](Some headline)]    
 1. Go to <https://account.hanatrial.ondemand.com> and log in to your HCP cockpit.
 ![HCP log in page](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/hcp-create-destination/mob1-1_1.png)
 1. Go to <https://account.hanatrial.ondemand.com> and log in to your HCP cockpit.
 ![HCP log in page](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/hcp-create-destination/mob1-1_1.png)
-[ACCORDION-END]      
+[ACCORDION-END]         
 [ACCORDION-BEGIN [STEP 4](#step2)]
 2. Select the *Destinations* tab on the left side, and then click on *New Destination* to open a new destination configuration form.
 ![Web IDE Destination tab](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/hcp-create-destination/mob1-1_2.png)
-[ACCORDION-END]
+[ACCORDION-END]     
 
-124124124     
+124124124   
+    
+
 [ACCORDION-BEGIN [STEP 5](#step1)]
 **sdfsafdsafsadfsadfsadfdsa**
 _dsfsadfasdfsadfsdsadfsdf_
-[ACCORDION-END]
+[ACCORDION-END]    
 
   
 ## xxxxxxxx12312312
@@ -74,7 +76,7 @@ sdfdsf
 [ACCORDION-BEGIN [STEP 6](After text)]
 **sdfsafdsafsadfsadfsadfdsa**
 _dsfsadfasdfsadfsdsadfsdf_
-[ACCORDION-END]
+[ACCORDION-END]   
 
 >### Some stuff
 
