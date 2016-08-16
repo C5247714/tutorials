@@ -1,12 +1,12 @@
 ---
-title: Create a Destination on HANA Cloud Platformaa
+title: Clean accordions
 description: Create a Destination to allow HANA Cloud Platform to nbvread/write data
 tags: [tutorial:product/hcp, tutorial:product/mobile, tutorial:interest/gettingstarted]
 ---
 
 >### New tutor
 
->This is a note. Newsassaddfsaaaafffadssfssaaaaaaaaaaaaaaa
+>This is a note. Newsassaddfsaaaafffadssfssaaaaaaaaaaaaaaaa
 
 asdasdasd
 ## Prerequisites  
