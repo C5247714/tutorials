@@ -34,7 +34,7 @@ Access your HANA instance that was created in ["How to create an SAP HANA Develo
 [ACCORDION-BEGIN [STEP 1](After text)]
 **sdfsafdsafsadfsadfsadfdsa**
 _dsfsadfasdfsadfsdsadfsdf_
-[ACCORDION-END]
+[ACCORDION-END]   
 [ACCORDION-BEGIN [STEP 2](After accordion)]
 **sdfsafdsafsadfsadfsadfdsa**
 _dsfsadfasdfsadfsdsadfsdf_
