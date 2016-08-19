@@ -153,7 +153,7 @@ simle text
 ## Script 45646564
 ### Script Examples
 #### Script Examples
- 190 lines_
+ 200+ lines_
 ```javascript
 New-AzureVM –ServiceName $svcname -VMs $vm1 -VNetName $vnetname
 $family="Windows Server 2012 R2 Datacenter"
@@ -345,21 +345,21 @@ $vm1 | Add-AzureProvisioningConfig -Windows -AdminUsername $cred.GetNetworkCrede
 $image=Get-AzureVMImage | where { $_.ImageFamily -eq $family } | sort PublishedDate -Descending | 
 $vmname="AZDC1"
 $vmsize="Medium"
+$vmname="AZDsadC1"
+$vmname="AZDC31"
+$vmname="AZDC21"
+$vmname="AZDsdC1"
 $vmname="AZDC1"
+$vmname="AZ4DC1"
+$vmname="AZsadDC1"
+$vmname="AZasdDC1"
+$vmname="AZDCsad1"
+$vmname="AZasdDC1"
+$vmname="AZDsadC1"
 $vmname="AZDC1"
-$vmname="AZDC1"
-$vmname="AZDC1"
-$vmname="AZDC1"
-$vmname="AZDC1"
-$vmname="AZDC1"
-$vmname="AZDC1"
-$vmname="AZDC1"
-$vmname="AZDC1"
-$vmname="AZDC1"
-$vmname="AZDC1"
-$vmname="AZDC1"
-$vmname="AZDC1"
-$vmname="AZDC1"
+$vmname="AZasdDC1"
+$vmname="AasdZDC1"
+$vmname="AZasdDC1"
 
 ``` 
  [ACCORDION-END]
