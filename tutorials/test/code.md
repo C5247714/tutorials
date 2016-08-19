@@ -345,6 +345,22 @@ $vm1 | Add-AzureProvisioningConfig -Windows -AdminUsername $cred.GetNetworkCrede
 $image=Get-AzureVMImage | where { $_.ImageFamily -eq $family } | sort PublishedDate -Descending | 
 $vmname="AZDC1"
 $vmsize="Medium"
+$vmname="AZDC1"
+$vmname="AZDC1"
+$vmname="AZDC1"
+$vmname="AZDC1"
+$vmname="AZDC1"
+$vmname="AZDC1"
+$vmname="AZDC1"
+$vmname="AZDC1"
+$vmname="AZDC1"
+$vmname="AZDC1"
+$vmname="AZDC1"
+$vmname="AZDC1"
+$vmname="AZDC1"
+$vmname="AZDC1"
+$vmname="AZDC1"
+
 ``` 
  [ACCORDION-END]
  
