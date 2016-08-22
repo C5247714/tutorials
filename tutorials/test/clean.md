@@ -33,7 +33,10 @@ Access your HANA instance that was created in ["How to create an SAP HANA Develo
 >### Warning
 >This is a Warning.
 
-&nbsp;
+
+
+
+
 
 [ACCORDION-BEGIN [STEP 1](After text)]
 **sdfsafdsafsadfsadfsadfdsa**
