@@ -49,7 +49,5 @@ _dsfsadfasdfsadfsdsadfsdf_
 
 [ACCORDION-BEGIN [STEP 3](After newline)]
 aaaaaaa
-
 [DONE]
-
 [ACCORDION-END]
