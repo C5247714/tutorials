@@ -47,4 +47,7 @@ _dsfsadfasdfsadfsdsadfsdf_
 _dsfsadfasdfsadfsdsadfsdf_
 [ACCORDION-END]
 
-[ACCORDION-BEGIN [STEP 3](After newline)]aaaaaaa[ACCORDION-END]
+[ACCORDION-BEGIN [STEP 3](After newline)]
+aaaaaaa
+[DONE]
+[ACCORDION-END]
