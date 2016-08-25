@@ -1,7 +1,7 @@
 ---
 title: 22,02
 description: 22,02
-tags: [agreements:]
+tags: [agreements>Service-Descriptions, agreements:]
 ---
 # TEST
 Use Azure PowerShell to [task]
