@@ -3,10 +3,10 @@
 exact-match
 
 ###Question
-Marina's age?
+New question (HINT: answer)?
 
 ###Match
-secret
+answer
 [VALIDATE_1]
 
 [VALIDATE_2]
