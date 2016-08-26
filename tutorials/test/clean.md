@@ -4,7 +4,7 @@ description: Create a Destination to allow HANA Cloud Platform to nbvread/write 
 tags: [tutorial:product/hcp, tutorial:product/mobile, tutorial:interest/gettingstarted, agreements:]
 ---
 
->### Clean accordions UPDATED12311
+>### Clean accordions UPDATED123111
 
 >This is a note. Newsassaddfsaaaafffadssfssaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
