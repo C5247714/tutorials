@@ -1,7 +1,7 @@
 ---
 title: Clean accordions
 description: Create a Destination to allow HANA Cloud Platform to nbvread/write data
-tags: [tutorial:product/hcp, tutorial:product/mobile, tutorial:interest/gettingstarted, agreements:]
+tags: [tutorial:product/hcp, tutorial:product/mobile, tutorial:interest/gettingstarted, tutorial>aaaa, tutorial>bbbb]
 ---
 
 >### Clean accordions UPDATED1112
