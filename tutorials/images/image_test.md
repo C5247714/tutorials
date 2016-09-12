@@ -1,5 +1,5 @@
 ---
-title: Images test
+title: Image test
 description: Images test
 tags: [tutorial:product/hcp, tutorial:product/mobile, tutorial:interest/gettingstarted]
 ---
