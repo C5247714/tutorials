@@ -19,7 +19,7 @@ tags: [tutorial:product/hcp, tutorial:product/mobile, tutorial:interest/gettings
 
 
 ### Time to Complete
-**20 minutes** dsfdsfsdfsd sfsdfsdfsdfsdfsdfs dsadfds asfdasdsa asdsaddsadsa
+**20 minutes** dsfdsfsdfsd sfsdfsdfsdfsdfsdfss dsadfds asfdasdsa asdsaddsadsa
 
 ### Host Configuration
 Access your HANA instance that was created in ["How to create an SAP HANA Developer Edition in the Cloud"](http://go.sap.com/developer/tutorials/hana-setup-cloud.html).
