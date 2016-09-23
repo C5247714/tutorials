@@ -41,3 +41,14 @@ Enter city where Marina lives
 ###Match
 Grodno
 [VALIDATE_4]
+
+[VALIDATE_5]
+###Rule
+http-status-check
+
+###Question
+Http status check
+
+###Match
+200
+[VALIDATE_5]
