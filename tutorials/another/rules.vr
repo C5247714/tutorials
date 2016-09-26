@@ -50,5 +50,5 @@ http-status-check
 Http status check
 
 ###Match
-200
+200, 201
 [VALIDATE_5]
