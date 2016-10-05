@@ -6,7 +6,7 @@ tags: [tutorial:product/hcp, tutorial:product/mobile, tutorial:interest/gettings
 
 >### Clean accordions UPDATED1112
 
->This is a note. Newsassaddfsaaaafffadssfssaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+>This is a note. Newsassaddfsaaaafffadssfssaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 asdasdasd
 ## Prerequisites  
