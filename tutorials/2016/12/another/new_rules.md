@@ -1,7 +1,7 @@
 ---
 title: New rules
 description: Create a Destination to allow HANA Cloud Platform to nbvread/write data
-tags: [tutorial:product/hcp, tutorial:product/mobile, tutorial:interest/gettingstarted]
+tags: [tutorial:product/hcp, tutorial:product/mobile, tutorial:interest/gettingstarted, tutorial:product/abap]
 ---
 
 >### New tutor
