@@ -1,7 +1,7 @@
 ---
 title: Tags test
 description: Create a Destination to allow HANA Cloud Platform to nbvread/write data
-tags: [agreements:,tutorial:product/hcp,wqeqwe>asda,agreements:NewTAG]
+tags: [agreements:,tutorial:product/hcp]
 ---
 
 >### Clean accordions 123123213
