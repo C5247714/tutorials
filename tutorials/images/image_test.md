@@ -43,5 +43,5 @@ asdsad ![Image with space](image with space.jpg) sasadsad
 
 ![Another](another with space.png)
 
-![External image](http://cdn.wallpapersafari.com/10/21/6BaQwh.jpg)
+![External image](http://wcms-local.wdf.sap.corp/developer/alebabai/image_test.image_proxy.html/image.jpg)
 
