@@ -43,5 +43,5 @@ asdsad ![Image with space](image with space.jpg) sasadsad
 
 ![Another](another with space.png)
 
-![External image](http://wcms-local.wdf.sap.corp/developer/alebabai/image_test.image_proxy.html/image.jpg)
+![External image](http://wcms-local.wdf.sap.corp/developer/alebabai/image_test/jcr:content.githib-image-proxy.html/image.jpg)
 
