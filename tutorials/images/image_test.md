@@ -36,7 +36,7 @@ Access your HANA instance that was created in ["How to create an SAP HANA Develo
 
 >### Note
 
-![Image](image.jpg)
+![Image - new](image.jpg)
 
 
 asdsad ![Image with space](image with space.jpg) sasadsad
