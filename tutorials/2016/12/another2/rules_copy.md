@@ -9,8 +9,9 @@ Details
 You will learn
 
 How to use HANA Studio Perspectivesa1a
-How to create a co1nnection to the HANA back endddв
+How to create a co1nnection to the HANA back ddd
 Getting started with the HANA Web based development workbencha
+
 [ACCORDION-BEGIN STEP 1] [VALIDATE_1] [ACCORDION-END]
 
 [ACCORDION-BEGIN STEP 2] [VALIDATE_2] [ACCORDION-END]
