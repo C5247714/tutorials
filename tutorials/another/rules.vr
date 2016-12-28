@@ -3,7 +3,7 @@
 exact-match
 
 ###Question
-Updated question (HINT: answer)? (Updated3)
+Updated question (HINT: answer)? (Updated6)
 
 ###Match
 answer
@@ -14,7 +14,7 @@ answer
 regex-substring
 
 ###Question
-Enter Marina's surname? (Updated4)
+Enter Marina's surname? (Updated5)
 
 ###Match
 Amosova
@@ -25,7 +25,7 @@ Amosova
 regex-substring
 
 ###Question
-What is day today? (Updated1)
+What is day today? (Updated2)
 
 ###Match
 Monday
@@ -36,7 +36,7 @@ Monday
 regex-with-id-exact-match
 
 ###Question
-Enter city where Marina lives? (Updated2)
+Enter city where Marina lives? (Updated3)
 
 ###Match
 Grodno
@@ -47,7 +47,7 @@ Grodno
 http-status-check
 
 ###Question
-Http status check (Updated)
+Http status check (Updated1)
 
 ###Match
 200, 201
