@@ -49,6 +49,8 @@ asdsad ![Image with space](image with space.jpg) sasadsad
 
 ![folder](folder/image.jpg)
 
+![inner folder](folder/inner_folder/image.jpg)
+
 ![BIG](big.JPG)
 
 
