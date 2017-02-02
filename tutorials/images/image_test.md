@@ -47,6 +47,8 @@ asdsad ![Image with space](image with space.jpg) sasadsad
 
 ![Relative with space](tutorials/images/image with space.jpg)
 
+![folder](folder/image.jpg)
+
 ![BIG](big.JPG)
 
 
