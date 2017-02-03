@@ -55,4 +55,7 @@ asdsad ![Image with space](image with space.jpg) sasadsad
 
 ![BIG](big.JPG)
 
+![BIG PNG](PBIG.PNG)
+
+
 
