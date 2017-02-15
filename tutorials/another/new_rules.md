@@ -17,10 +17,10 @@ tags: [tutorial:product/hcp, tutorial:product/mobile, tutorial:interest/gettings
 [ACCORDION-END] 
 
 [ACCORDION-BEGIN [STEP 2](Test 2)]
-[VALIDATE_2]
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 3](Test 3)]
+[VALIDATE_2]
 [VALIDATE_3]
 [ACCORDION-END]
 
