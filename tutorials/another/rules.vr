@@ -60,3 +60,27 @@ exact-match
 ###Match
 aaaaa
 [VALIDATE_6]
+
+[VALIDATE_7]
+###Rule
+single-choice
+###Question
+Sing choice rule (3)
+###Match
+[ ] Answer 1
+[ ] Answer 2
+[x] Answer 3
+[ ] Answer 4
+[VALIDATE_7]
+
+[VALIDATE_8]
+###Rule
+multiple-choice
+###Question
+Multiple choice rule (2,3)
+###Match
+[ ] Answer 1
+[x] Answer 2
+[x] Answer 3
+[ ] Answer 4
+[VALIDATE_8]
