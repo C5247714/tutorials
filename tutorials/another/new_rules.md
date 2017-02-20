@@ -35,3 +35,11 @@ tags: [tutorial:product/hcp, tutorial:product/mobile, tutorial:interest/gettings
 [ACCORDION-BEGIN [STEP 6](Test 6 - without question)]
 [VALIDATE_6]
 [ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 7](Test 7 - single choice)]
+[VALIDATE_7]
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 8](Test 8 - multiple choice)]
+[VALIDATE_8]
+[ACCORDION-END]
