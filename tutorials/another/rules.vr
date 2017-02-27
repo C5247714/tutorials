@@ -84,3 +84,12 @@ Multiple choice rule (2,3)
 [x] Answer 3
 [ ] Answer 4
 [VALIDATE_8]
+
+[VALIDATE_9]
+###Rule
+regex-with-id-exact-match
+###Question
+ID exact match (answer_id)
+###Match
+answer[id]
+[VALIDATE_9]
