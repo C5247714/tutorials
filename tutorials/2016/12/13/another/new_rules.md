@@ -10,7 +10,7 @@ tags: [tutorial:product/hcp, tutorial:product/mobile, tutorial:interest/gettings
 ### You will learn  
 1. How to use HANA Studio TESTTESSF
 2. How to create a co1nnection to the HANA back endddв
-3. Getting started with the HANA Web based development workbenchdaasdasdsdaddddddd
+3. Getting started with the HANA Web based development workbenchdaasdasdsdaddddddddddd
 
 [ACCORDION-BEGIN [STEP 1](Test 1)]
 [VALIDATE_1]
