@@ -47,3 +47,7 @@ tags: [tutorial:product/hcp, tutorial:product/mobile, tutorial:interest/gettings
 [ACCORDION-BEGIN [STEP 9](Test 9 - id)]
 [VALIDATE_9]
 [ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 9](Test 10 - unknown)]
+[VALIDATE_10]
+[ACCORDION-END]
