@@ -93,3 +93,13 @@ ID exact match (answer_id)
 ###Match
 answer[id]
 [VALIDATE_9]
+
+[VALIDATE_10]
+###Rule
+unknown-rule
+###Question
+Unknown rule type
+###Match
+answer
+[VALIDATE_10]
+
