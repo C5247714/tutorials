@@ -15,7 +15,7 @@ tags: [tutorial:product/hcp, tutorial:product/mobile, tutorial:interest/gettings
 ### You will learn  
 1. How to use HANA Studio Perspectives
 2. How to create a connection to the HANA back qw
-3. Getting started with the HANA Web based development workbencha
+3. Getting started with the HANA Web based development workbenchaasdasdasdasd
 
 
 ### Time to Complete
