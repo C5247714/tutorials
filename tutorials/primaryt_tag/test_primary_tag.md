@@ -5,7 +5,7 @@ tags: [tutorial:product/hcp, tutorial:product/mobile, tutorial:interest/gettings
 primary_tag: tutorial:product/mobile
 ---
 
->### Primary tag
+>### TEST Primary tag
 
 ## Details
 ### You will learn  
