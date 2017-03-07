@@ -11,7 +11,7 @@ primary_tag: tutorial:product/mobile
 ### You will learn  
 1. How to use HANA Studio Perspectivesa1a
 2. How to create a co1nnection to the HANA back endddв
-3. Getting started with the HANA Web based development workbencha
+3. Getting started with the HANA Web based development workbenchadd
 
 [ACCORDION-BEGIN [STEP 1](Test 1)]
 [VALIDATE_1]
