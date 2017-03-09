@@ -26,7 +26,7 @@ You will also learn how to add a field to your app. This is useful since the tem
 ### Time to Complete
 **<5 min**
 
-### Adding labels to the Detail View TEST TEST 123
+### Adding labels to the Detail View TEST TEST 123456
 
 ---
 
