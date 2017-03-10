@@ -2,7 +2,7 @@
 title: tutorial with parimary tag
 description: Learn how to insert labels into the detail view of your app and add additional fields.
 tags: [ products>sap-hana-cloud-platform, products>sap-web-ide, topic>cloud, topic>html5, topic>mobile, topic>odata, tutorial>beginner, tutorial>test3 ]
-primary_tag: products>sap-hana-cloud-platform
+primary_tag: products>sap-web-ide
 ---
 
 ## Prerequisites
@@ -26,7 +26,7 @@ You will also learn how to add a field to your app. This is useful since the tem
 ### Time to Complete
 **<5 min**
 
-### Adding labels to the Detail View TEST TEST TEST AAAA
+### Adding labels to the Detail View1
 
 ---
 
