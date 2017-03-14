@@ -1,5 +1,5 @@
 ---
-title: tutorial with parimary tag
+title: tutorial with primary tag
 description: Learn how to insert labels into the detail view of your app and add additional fields.
 tags: [tutorial>mobile]
 primary_tag: tutorial>HANA
