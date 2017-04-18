@@ -1,7 +1,7 @@
 ---
 title: tutorial with primary tag
 description: Learn how to insert labels into the detail view of your app and add additional fields.
-tags: [tutorial>mobile]
+tags: [ tutorial>mobile, products>sap-hana--express-edition ]
 primary_tag: tutorial>HANA
 ---
 
