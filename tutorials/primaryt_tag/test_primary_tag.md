@@ -52,3 +52,43 @@ You will also learn how to add a field to your app. This is useful since the tem
     ![XML view elements to modify](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/hcp-webide-add-labels-field/mob2-1_label_4.png)
 
 5. Insert the titles as attributes into the ObjectAttribute areas highlighted on the right below. You can type in the `title="xyz"` strings, or replace the lines entirely with the text below. The edited lines should look like the screenshot below.
+
+[ACCORDION-BEGIN [STEP 1](Test 1)]
+[VALIDATE_1]
+[ACCORDION-END] 
+
+[ACCORDION-BEGIN [STEP 2](Test 2)]
+[VALIDATE_2]
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 3](Test 3)]
+[VALIDATE_3]
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 4](Test 4)]
+[VALIDATE_4]
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 5](Test 5 - Http)]
+[VALIDATE_5]
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 6](Test 6 - without question)]
+[VALIDATE_6]
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 7](Test 7 - single choice)]
+[VALIDATE_7]
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 8](Test 8 - multiple choice)]
+[VALIDATE_8]
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 9](Test 9 - id)]
+[VALIDATE_9]
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 9](Test 10 - unknown)]
+[VALIDATE_10]
+[ACCORDION-END]
