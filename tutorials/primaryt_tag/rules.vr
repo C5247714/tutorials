@@ -3,7 +3,7 @@
 exact-match
 
 ###Question
-New QWEQWEQWE (HINT: answer)?
+Updated question (HINT: answer)? (Updated111)
 
 ###Match
 answer
@@ -14,7 +14,7 @@ answer
 regex-substring
 
 ###Question
-Enter Marina's surname?
+Enter Marina's surname? (Updated5)
 
 ###Match
 Amosova
@@ -25,7 +25,7 @@ Amosova
 regex-substring
 
 ###Question
-What is day today?
+What is day today? (Updated2)
 
 ###Match
 Monday
@@ -36,7 +36,7 @@ Monday
 regex-with-id-exact-match
 
 ###Question
-Enter city where Marina lives
+Enter city where Marina lives? (Updated3)
 
 ###Match
 Grodno
@@ -47,8 +47,59 @@ Grodno
 http-status-check
 
 ###Question
-Http status check
+Http status check (Updated1)
 
 ###Match
 200, 201
 [VALIDATE_5]
+
+[VALIDATE_6]
+###Rule
+exact-match
+
+###Match
+aaaaa
+[VALIDATE_6]
+
+[VALIDATE_7]
+###Rule
+single-choice
+###Question
+Sing choice rule (3)
+###Match
+[ ] Answer 1
+[ ] Answer 2
+[x] Answer 3
+[ ] Answer 4
+[VALIDATE_7]
+
+[VALIDATE_8]
+###Rule
+multiple-choice
+###Question
+Multiple choice rule (2,3)
+###Match
+[ ] Answer 1
+[x] Answer 2
+[X] Answer 3
+[ ] Answer 4
+[VALIDATE_8]
+
+[VALIDATE_9]
+###Rule
+regex-with-id-exact-match
+###Question
+ID exact match (answer_id)
+###Match
+answer[id]
+[VALIDATE_9]
+
+[VALIDATE_10]
+###Rule
+unknown-rule
+###Question
+Unknown rule type
+###Match
+answer
+[VALIDATE_10]
+
