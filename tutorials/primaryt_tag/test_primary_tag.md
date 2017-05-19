@@ -85,7 +85,6 @@ You will also learn how to add a field to your app. This is useful since the tem
 [VALIDATE_8]
 [ACCORDION-END]
 
-[ACCORDION-BEGIN [STEP 9](Test 9 - id)]
+[ACCORDION-BEGIN [STEP 9](Test 9 - id - updated)]
 [VALIDATE_9]
-[VALIDATE_8]
 [ACCORDION-END]
