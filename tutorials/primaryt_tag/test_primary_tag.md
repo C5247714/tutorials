@@ -44,7 +44,7 @@ You will also learn how to add a field to your app. This is useful since the tem
 
 3. Double-click the UnitsInStock line in **Detail.view.xml** to open that file in the edit pane.
 
-    >Notice that the search term is highlighted in the source file. You can click on the **Search icon** again to close the search pane.
+    >Notice that the search term is highlighted in the source file. You can click on the **Search icon** again to close the search panddde.
 
     ![Clicking on SAP Web IDE search pane results](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/hcp-webide-add-labels-field/mob2-1_label_3.png)
 
