@@ -52,7 +52,7 @@ You will also learn how to add a field to your app. This is useful since the tem
 
     ![XML view elements to modify](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/hcp-webide-add-labels-field/mob2-1_label_4.png)
 
-5. Insert the titles as attributes into the ObjectAttribute areas highlighted on the right below. You can type in the `title="xyz"` strings, or replace the lines entirely with the text below. The edited lines should look like the screenshot below123.
+5. Insert the titles as attributes into the ObjectAttribute areas highlighted on the right below. You can type in the `title="xyz"` strings, or replace the lines entirely with the text below. The edited lines should look like the screenshot below1234.
 
 [ACCORDION-BEGIN [STEP 1](Test 1)]
 [VALIDATE_1]
